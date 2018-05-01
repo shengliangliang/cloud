@@ -37,6 +37,7 @@
         <module>producer</module>
         <module>ribbon-consumer</module>
         <module>service-api</module>
+        <module>sleuth-server</module>
         <module>sleuth-trace1</module>
         <module>sleuth-trace2</module>
         <module>turbine</module>
